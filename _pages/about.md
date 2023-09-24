@@ -10,7 +10,7 @@ redirect_from:
 
 
 
- <img title="<Murat K. Munkin>" alt="Alt text" src="images/<Murat_Munkin.jpg>">
+ <img title="<Murat K. Munkin>" alt="Alt text" src="images/<MuratMunkin.png>">
 
  I am a Bayesian econometrician whose work in econometric theory is primarily motivated by the needs of applied researchers, especially in health economics. As a result, most of the produced papers are the interplay between the empirical work and the econometric theory, with each guiding the other. I am a researcher who does empirical research himself including programming in Matlab, who knows the substantive field of health economics as well as produces work in theoretical econometrics and computational methods. This rare combination allows me to construct econometric methods that are closely aligned with the needs of empirical researchers.
 
