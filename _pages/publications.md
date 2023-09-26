@@ -46,14 +46,3 @@ author_profile: true
 “The MCMC and SML Estimation of a Self-Selection Model”, (2003), Computational Statistics and Data Analysis, 42, 403-424
 
  “Simulated Maximum Likelihood Estimation of Multivariate Mixed-Poisson Regression Models, With Application,” The Econometrics Journal, (1999), 2, 29-48 (with P.K. Trivedi)
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
