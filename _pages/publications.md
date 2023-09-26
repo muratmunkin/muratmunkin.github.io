@@ -26,7 +26,9 @@ author_profile: true
 “Estimating Incentive and Selection Effects in Medigap Insurance Market: An Application with Dirichlet Process Mixture Model”, (2015), Journal of Applied Econometrics, 30, 1115-1143 (with Stewart Hu and P.K. Trivedi)
 
 “Bayesian Estimation of Panel Data Fractional Response Models with Endogeneity: An Application to Standardized Test Rates”, (2015), Empirical Economics, 49, 81-114 (with Lawrence Kessler)
+
 “The Endogenous Sequential Probit Model: An Application to the Demand for Hospital Utilization”, (2011), Economics Letters, 112, 182-185 
+
 “Disentangling incentives effects of insurance coverage from adverse selection in the case of drug expenditure: a finite mixture approach”, (2010), Health Economics, 19, 1093-1108. (with P.K. Trivedi)
 
 “Demand for Cigarettes: A Mixed Binary-Ordered Probit Approach”, (2010), Applied Economics, 42, 413-426 (with P. Kasteridis and S. Yen)
