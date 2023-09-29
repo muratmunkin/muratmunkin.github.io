@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-“Comparing the Conditional Logit Estimates and True Parameters under Preference Heterogeneity: A Simulated Discrete Choice Experiment,” Econometrics, (2023), 11(1), 4 (with Maksat Jumamyradov, Benjamin Craig, William Greene)
+“Comparing the Conditional Logit Estimates and True Parameters under Preference Heterogeneity: A Simulated Discrete Choice Experiment,” [Econometrics](https://www.mdpi.com/2225-1146/11/1/4), (2023), 11(1), 4 (with Maksat Jumamyradov, Benjamin Craig, William Greene)
 
 “Count Roy Model with Finite Mixtures”, (2022), Journal of Applied Econometrics, 37, 1160-1181
 
