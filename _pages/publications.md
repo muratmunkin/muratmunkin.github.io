@@ -11,9 +11,9 @@ author_profile: true
 
 “Biases in Maximum Simulated Likelihood Estimation of Bivariate Models”, (2022), [Journal of Econometric Methods](https://www.degruyter.com/document/doi/10.1515/jem-2021-0003/html), 11, 55-70 (with Maksat Jumamyradov)
 
-“Bayesian semiparametric analysis on the relationship between BMI and income for rural and urban workers in China”, (2022), Journal of Applied Statistics, 49, 3215-3235 (with Lijuan Feng)
+“Bayesian semiparametric analysis on the relationship between BMI and income for rural and urban workers in China”, (2022), [Journal of Applied Statistics](https://www.tandfonline.com/doi/abs/10.1080/02664763.2021.1935803), 49, 3215-3235 (with Lijuan Feng)
 
-“Islamic Finance and SDG 10: Evidence from Selected OIC Countries”, (2021), Islamic Finance and Sustainable Development, Palgrave Macmillan (Springer Nature), 127-149 (with Hylmun Izhar)
+“Islamic Finance and SDG 10: Evidence from Selected OIC Countries”, (2021), [Islamic Finance and Sustainable Development](https://link.springer.com/chapter/10.1007/978-3-030-76016-8_7), Palgrave Macmillan (Springer Nature), 127-149 (with Hylmun Izhar)
 
 “Bayesian Analysis of the Two-Part Model with Endogeneity: Application to Health Care Expenditure”, (2020), Empirical Health Economics, Edited by Andrew M. Jones, Edward Elgar Publishing (Reprint with P. Deb and P.K. Trivedi)
 
