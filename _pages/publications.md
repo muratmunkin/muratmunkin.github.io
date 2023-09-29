@@ -7,9 +7,9 @@ author_profile: true
 
 “Comparing the Conditional Logit Estimates and True Parameters under Preference Heterogeneity: A Simulated Discrete Choice Experiment,” [Econometrics](https://www.mdpi.com/2225-1146/11/1/4), (2023), 11(1), 4 (with Maksat Jumamyradov, Benjamin Craig, William Greene)
 
-“Count Roy Model with Finite Mixtures”, (2022), Journal of Applied Econometrics, 37, 1160-1181
+“Count Roy Model with Finite Mixtures”, (2022), [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/doi/10.1002/jae.2928), 37, 1160-1181
 
-“Biases in Maximum Simulated Likelihood Estimation of Bivariate Models”, (2022), Journal of Econometric Methods, 11, 55-70 (with Maksat Jumamyradov)
+“Biases in Maximum Simulated Likelihood Estimation of Bivariate Models”, (2022), [Journal of Econometric Methods](https://www.degruyter.com/document/doi/10.1515/jem-2021-0003/html), 11, 55-70 (with Maksat Jumamyradov)
 
 “Bayesian semiparametric analysis on the relationship between BMI and income for rural and urban workers in China”, (2022), Journal of Applied Statistics, 49, 3215-3235 (with Lijuan Feng)
 
