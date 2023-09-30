@@ -15,11 +15,11 @@ author_profile: true
 
 “Islamic Finance and SDG 10: Evidence from Selected OIC Countries”, (2021), [Islamic Finance and Sustainable Development](https://link.springer.com/chapter/10.1007/978-3-030-76016-8_7), Palgrave Macmillan (Springer Nature), 127-149 (with Hylmun Izhar)
 
-“Bayesian Analysis of the Two-Part Model with Endogeneity: Application to Health Care Expenditure”, (2020), Empirical Health Economics, Edited by Andrew M. Jones, Edward Elgar Publishing (Reprint with P. Deb and P.K. Trivedi)
+“Bayesian Analysis of the Two-Part Model with Endogeneity: Application to Health Care Expenditure”, (2020), [Empirical Health Economics](https://www.e-elgar.com/shop/usd/empirical-health-economics-9781788119795.html), Edited by Andrew M. Jones, Edward Elgar Publishing (Reprint with P. Deb and P.K. Trivedi)
 
 “The Effect of Total Capital on Asset Risks of Islamic Banks: The Endogenous Treatment Panel Data Model Approach”, (2017), [Review of Financial Economics](https://onlinelibrary.wiley.com/doi/10.1016/j.rfe.2017.03.004), 34, 1-9 (with Syed Basher and Lawrence Kessler)
 
-“Recent Developments in Cross-Section and Panel Data Models of Event Counts”, (2017), The Handbook of Empirical Economics and Finance, edited by David Giles and Aman Ullah, Chapman and Hall/CRC, 87-131 (with P.K. Trivedi)
+“Recent Developments in Cross-Section and Panel Data Models of Event Counts”, (2017), [The Handbook of Empirical Economics and Finance](https://www.taylorfrancis.com/books/edit/10.1201/b10440/handbook-empirical-economics-finance-aman-ullah-david-giles), edited by David Giles and Aman Ullah, Chapman and Hall/CRC, 87-131 (with P.K. Trivedi)
 
 “Simulating the Contribution of a Biospecimen and Clinical Data Repository in a Phase II Clinical Trial: a Value of Information Analysis”, (2016), [Statistical Methods in Medical Research](https://journals.sagepub.com/doi/10.1177/0962280213480282), 25, 1303-1312 (with Benjamin Craig, Gang Han and David Fenstermacher)
 
