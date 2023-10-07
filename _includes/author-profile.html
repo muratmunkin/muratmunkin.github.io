@@ -34,7 +34,7 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.mathgenealogy %}
+      {% if author.ideas-repec %}
         <li><a href="{{ author.ideas-repec }}"><i class="ai ai-ideas-repec-square"></i> IDEAS</a></li>
       {% endif %}
       {% if author.keybase %}
